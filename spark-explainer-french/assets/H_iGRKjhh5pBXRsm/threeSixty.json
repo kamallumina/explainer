@@ -1,0 +1,27 @@
+{
+  "version": "3.94.33593.0",
+  "course_id": "5V4T2oivJVn_course_id",
+  "title": "Vision des Qualités pour la Qualification Spark",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Commencer"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5uxCNpC9WgF",
+      "title": "Qualités",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1940,
+    "height": 1174
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "version": "3.64.27845.0",
+  "course_id": "5a5Amofz7jh_course_id",
+  "title": "Eigenschappen viewer",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Start"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5uxCNpC9WgF",
+      "title": "Eigenschappen",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1940,
+    "height": 1174
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}

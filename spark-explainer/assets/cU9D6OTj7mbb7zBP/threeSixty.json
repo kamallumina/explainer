@@ -1,0 +1,27 @@
+{
+  "version": "3.62.27443.0",
+  "course_id": "6IOWQRkb3OI_course_id",
+  "title": "Qualities Viewer",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Start"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5uxCNpC9WgF",
+      "title": "Qualities",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1940,
+    "height": 1174
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}
