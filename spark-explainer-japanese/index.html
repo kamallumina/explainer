@@ -6,9 +6,9 @@
     <meta charset="utf-8">
 
     <title>Lumina Spark Explainer (日本語)</title>
-    <link type="text/css" rel="stylesheet" href="lib/icomoon.css">
-    <script type="text/javascript" src="lib/player-0.0.11.min.js"></script>
-    <script type="text/javascript" src="lib/lzwcompress.js"></script>
+    <link type="text/css" rel="stylesheet" href="spark-explainer-japanese/lib/icomoon.css">
+    <script type="text/javascript" src="spark-explainer-japanese/lib/player-0.0.11.min.js"></script>
+    <script type="text/javascript" src="spark-explainer-japanese/lib/lzwcompress.js"></script>
 
     <!-- Resize Hack -->
     <script type="text/javascript">
@@ -52,7 +52,7 @@
                 link.onload = resolve
                 link.onerror = reject
                 link.rel = 'stylesheet'
-                link.href = 'lib/' + manifest['.css'][idx]
+                link.href = 'spark-explainer-japanese/lib/' + manifest['.css'][idx]
                 document.body.appendChild(link)
               }))
             }
@@ -64,7 +64,7 @@
                 var script = document.createElement('script')
                 script.onload = resolve
                 script.onerror = reject
-                script.src = 'lib/' + manifest['.js'][idx]
+                script.src = 'spark-explainer-japanese/lib/' + manifest['.js'][idx]
                 document.body.appendChild(script)
               }))
             }
@@ -122,11 +122,11 @@
     }
 
     function resolvePath(path) {
-      return ('assets/').concat(path);
+      return ('spark-explainer-japanese/assets/').concat(path);
     }
 
     function resolveFontPath(font) {
-      return ('lib/fonts/').concat(font.key.split('/').reverse()[0]);
+      return ('spark-explainer-japanese/lib/fonts/').concat(font.key.split('/').reverse()[0]);
     }
 
     root.Runtime = {
