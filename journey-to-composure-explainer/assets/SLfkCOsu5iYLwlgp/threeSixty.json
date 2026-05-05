@@ -1,0 +1,27 @@
+{
+  "version": "3.72.29654.0",
+  "course_id": "5duaUkxFgRN_course_id",
+  "title": "Spark Coach Walkthrough",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Start"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6R0EHrDjSF8",
+      "title": "Video",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

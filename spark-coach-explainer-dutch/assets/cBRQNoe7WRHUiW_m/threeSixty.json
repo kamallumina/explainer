@@ -1,0 +1,27 @@
+{
+  "version": "3.96.33815.0",
+  "course_id": "6DywFA8OYNC_course_id",
+  "title": "Présentation de Spark Coach",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Commencer"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6R0EHrDjSF8",
+      "title": "Vidéo",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

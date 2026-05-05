@@ -1,0 +1,27 @@
+{
+  "version": "3.96.33815.0",
+  "course_id": "6Zpk7YAnwJt_course_id",
+  "title": "Przeglądarka Cech dla kwalifikacji Spark",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Start"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5uxCNpC9WgF",
+      "title": "Cechy",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1940,
+    "height": 1174
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}

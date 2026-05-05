@@ -1,0 +1,27 @@
+{
+  "version": "3.100.34725.0",
+  "course_id": "6DywFA8OYNC_course_id",
+  "title": "Przewodnik po Spark Coach",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Start"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6R0EHrDjSF8",
+      "title": "Video",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
