@@ -1,0 +1,67 @@
+{
+  "version": "3.67.28569.0",
+  "course_id": "6B0DzsPNiAk_course_id",
+  "title": "8 Storytelling Videos",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Videos"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6Peqy5WhAst",
+      "title": "Menu",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6E81T4OK5Rs",
+      "title": "Regard_Independent",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5ldcT8TVEej",
+      "title": "Follows_Focuses",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6U3pR3NNGFB",
+      "title": "Confid_Mod",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "69Py5qU7Z5f",
+      "title": "Opt_Vig",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5ydheqVx1CL",
+      "title": "Resil_Respon",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6nNHdN67JJL",
+      "title": "Eventemp_impass",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "64Pmm3QXj2r",
+      "title": "expresses_contains",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6DnbUvhNvmd",
+      "title": "Introspec_Grounded",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1300,
+    "height": 740
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}

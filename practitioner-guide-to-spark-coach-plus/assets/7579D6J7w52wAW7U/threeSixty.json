@@ -1,0 +1,32 @@
+{
+  "version": "3.67.28569.0",
+  "course_id": "5lOjmqdscRg_course_id",
+  "title": "Spark Coach Plus Qualities",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Start"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6hB1zjjNSYx",
+      "title": "40 Quals EUO",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6ktaie8nvDf",
+      "title": "40 quals_overextended",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1300,
+    "height": 740
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}
