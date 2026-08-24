@@ -1,0 +1,70 @@
+{
+  "version": "3.71.29339.0",
+  "course_id": "6930Oc9doWQ",
+  "title": "team viewer quiz FINAL FINAL",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Start"
+    },
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6iKfGoNNU2j",
+      "title": "Intro",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6WkFPIVlTja",
+      "title": "Which is true about how the Collective Team Position (CTP) is calculated?",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5mBAwZhUMaZ",
+      "title": "Which is false about the Collective Team Position (CTP)?",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5wxdNjl0Suz",
+      "title": "Which is true about the Collective Team Position (CTP)? ",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6FqYbsaTLeR",
+      "title": "Which is false about the Collective Team Position (CTP) in this example? ",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "68PrbKUJM3n",
+      "title": "Which is false about the position of team member VH ? ",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6nnOQhFsEHD",
+      "title": "Which is false about team member MC? ",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6d39MjlKgb0",
+      "title": "Which would not be a valid interpretation of the team…?",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "5wlx9i3mleU",
+      "title": "Quiz Results",
+      "scene_index": "2.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
