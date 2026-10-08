@@ -1,0 +1,27 @@
+{
+  "version": "3.101.34925.0",
+  "course_id": "6TmZ8r8te71_course_id",
+  "title": "チームビューア",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "開始する"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6R0EHrDjSF8",
+      "title": "動画",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

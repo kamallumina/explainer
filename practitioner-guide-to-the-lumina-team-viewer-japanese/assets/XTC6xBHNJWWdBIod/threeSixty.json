@@ -1,0 +1,70 @@
+{
+  "version": "3.101.34925.0",
+  "course_id": "62JRuOxNp3H",
+  "title": "Team Viewer Quiz - Japanese",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "開始する"
+    },
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6iKfGoNNU2j",
+      "title": "方法",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6WkFPIVlTja",
+      "title": "チーム全体のポジション（CTP）の計算方法について、正しいものはどれですか？",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5mBAwZhUMaZ",
+      "title": "チーム全体のポジション（CTP）について間違っているものはどれですか？",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5wxdNjl0Suz",
+      "title": "チーム全体のポジション（CTP）について正しいものはどれですか？",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6FqYbsaTLeR",
+      "title": "この例でのチーム全体のポジション（CTP）について間違っているものはどれますか？",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "68PrbKUJM3n",
+      "title": "チームメンバーVHのポジションについて間違っているものはどれですか？",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6nnOQhFsEHD",
+      "title": "チームメンバーのMCについて間違っているものはどれですか？",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6d39MjlKgb0",
+      "title": "チームの解釈として有効でないものはどれでうか…？",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "5wlx9i3mleU",
+      "title": "クイズの結果",
+      "scene_index": "2.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
