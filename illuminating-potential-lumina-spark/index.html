@@ -1,10 +1,10 @@
 <!doctype html>
 <!-- 
-course package version: rJXKAPlZ
-rise_frontend sha: 84727239b7f8e6b3aa37cfecc8c6e443cf605c2c
-ai_scenario sha: c4816317129e68425396bca036c30e6e6250add2
-learn_distribution_frontend sha: 072c0db43c4a8147fc739de69908afa98b3d511e
-mondrian sha: 2839f02a9bf1902be3e3b1d2e8ac3797bdc57252
+course package version: Vcmu714c
+rise_frontend sha: 4b2e97c63310156669d598758df3729f966f95f9
+ai_scenario sha: 8d242940e154d2ea410b611ff2f4eccf81869b69
+learn_distribution_frontend sha: e211add6ecef0aafdb356b7c6a7a1ec56ba190b1
+mondrian sha: 7c231fa8986faefab9f48aa9f85c208ccc670fc2
 sandbox sha: 42753f3391b109fa3788c525c22880445ab48325
  -->
 <html lang="en">
@@ -12,27 +12,76 @@ sandbox sha: 42753f3391b109fa3788c525c22880445ab48325
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Illuminating Potential: The Lumina Spark Revolution in Psychometrics</title>
-
-            <script src="rise-glossary.js"
+   
+     <script src="rise-glossary.js"
         data-auto-init="true"
         data-data-url="glossary-data.json">
-</script>
-    
+     </script>
+
     <script type="application/json" id="__CONFIG__">
       {"remoteManifest":{"ai_scenario":{".js":["ai-scenario/entry.js"]},"learn_distribution_frontend":{".js":["learn_dist/entry.js"]},"mondrian":{".js":["mondrian/entry.js"]}},"assetTargetPrefixes":{"media":"assets","font":"lib/fonts"},"loadOnlyInLms":false,"surface":"web-export"}
     </script>
     
     <script src="lib/dist/7137cfb8.js"></script>
+  
+    <link rel="stylesheet" href="accessibility-tips.css">
 
-        <link rel="stylesheet" href="accessibility-tips.css">
-
+  
   </head>
   <body>
     <div id="app"></div>
     
-      <script src="lib/rise/e406bbaa.js"></script>
+      <script src="lib/rise/0d05815e.js"></script>
+   
+   <script src="accessibility-tips.js"></script>   
 
-         <script src="accessibility-tips.js"></script>   
-    
+<script>
+(function () {
+  "use strict";
+
+  const MARKER = "[AI_KNOWLEDGE]";
+
+  function hideKnowledgeBlocks() {
+    document.querySelectorAll("p").forEach(function (p) {
+
+      // Only match paragraphs starting with our marker
+      const text = p.textContent.trim();
+
+      if (!text.startsWith(MARKER)) return;
+
+      // Find the enclosing Rise block
+      const block = p.closest("[data-block-id]");
+
+      if (block) {
+        block.style.setProperty(
+          "display", "none", "important"
+        );
+      }
+    });
+  }
+
+  // Run after initial page load
+  if (document.readyState === "loading") {
+    document.addEventListener(
+      "DOMContentLoaded",
+      hideKnowledgeBlocks
+    );
+  } else {
+    hideKnowledgeBlocks();
+  }
+
+  // Handle dynamically loaded Rise lessons
+  const observer = new MutationObserver(function () {
+    hideKnowledgeBlocks();
+  });
+
+  observer.observe(document.documentElement, {
+    childList: true,
+    subtree: true
+  });
+
+})();
+</script>   
+
   </body>
 </html>
